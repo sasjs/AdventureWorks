@@ -12,7 +12,7 @@ options dlcreatedir;
 libname hr "%sysfunc(pathname(work))/hr";
 libname person "%sysfunc(pathname(work))/person";
 libname productn "%sysfunc(pathname(work))/productn";
-libname purchasng "%sysfunc(pathname(work))/purchasng";
+libname purchsng "%sysfunc(pathname(work))/purchsng";
 libname sales "%sysfunc(pathname(work))/sales";
 
 
