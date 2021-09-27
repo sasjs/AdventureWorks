@@ -1,0 +1,7 @@
+node_modules/
+sasjsbuild/
+sasjsresults/
+.env*
+.DS_Store
+# prevent files/folders with spaces
+**\ **

@@ -1,0 +1,23 @@
+{
+  "name": "@sasjs/adventureworks",
+  "version": "1.0.0",
+  "description": "A SAS version of the Microsoft AdventureWorks database",
+  "homepage": "https://github.com/sasjs/adventureworks",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "sasjs db && ./sasjs/utils/build.sh"
+  },
+  "keywords": [
+    "SAS",
+    "Viya",
+    "SASjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sasjs/adventureworks"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@sasjs/core": "^2.48.0"
+  }
+}
